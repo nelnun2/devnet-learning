@@ -11,3 +11,5 @@ if data["status"] == "up":
     print("Router operacional")
 else:
     print("Router indisponivel")
+
+print("Fim do programa")
